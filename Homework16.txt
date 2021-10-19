@@ -1,0 +1,21 @@
+Write a program to perform intersection and complement operation on a set without using inbuilt functions
+
+Write a program to store subject wise details of 5 students of the same class using nested dictionaries
+
+Write a program to store records of 10 employees under the same label 
+
+Consider these two Sets, A={19,34,56,7} B={1,2,5,19,34,7}. Write a program to implement union operation without using inbuilt function.
+
+Write a program to insert only positive numbers to a list
+Hint: Use if else statements to check the number and then insert into a list
+
+Write a program to edit tuples
+Hint: Convert a tuple to a list, edit and then convert back to a tuple
+
+Write a program to change all even numbers to odd and odd numbers to even in a list
+
+Write a program to take all prime numbers from a list and add to a new list
+Hint: From a list of natural numbers, check which numbers are prime and add to a new list
+ 
+Write a program to store all credit card numbers in a type and verify them.
+Hint: Use tuples as credit card numbers are permanent

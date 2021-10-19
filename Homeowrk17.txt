@@ -1,0 +1,10 @@
+Define a function to take a string as input and display all the distinct letters in the string in Upper Case
+
+Write a porgram to compute percentage of three students using function.
+
+Write a functuon to add 4 numbers take necessary input from the user.
+
+Write a function to implemt Pythagoras Theorem formula on 2 sides for the 3rd side 
+c**2=(a*a)+(b*b)
+
+

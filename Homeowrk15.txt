@@ -1,0 +1,11 @@
+Convert list of tuples to list of list
+
+Find the tuples containing the given element from a list of tuples
+
+Write a program to take sample credit card numbers as input and validate it with existing tuple of credit card numbers
+
+Multiply elements of Tuple
+
+aTuple = (10, 20, 30, 40)  Unpack the following tuple into 4 variables
+
+Swap the two

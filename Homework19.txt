@@ -1,0 +1,8 @@
+take a number and find the sum of the digits
+e.g 123 1+2+3 = 6
+Take a Number and find the products of the digits
+e.g 46 4 * 6 = 24
+take a number and count the total number of digits
+e.g 123456 == length 6
+write a program to accepet number from the user ad calculate the sum of all the number from 1 to the given number
+e.g num = 6 math = 1+2+3+4+5+6 

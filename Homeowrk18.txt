@@ -1,0 +1,10 @@
+write a function to find if a number is even or odd
+
+write a function to check if the entered is positive negetive 0 or a decimal number
+x
+write a function to compute the percentage of a student who scored 400/550 * 100
+
+write a function to add the two numbers which in-turn calls another function to take input from the user
+
+------
+find the maximimun of 3 numbers
