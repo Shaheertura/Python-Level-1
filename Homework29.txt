@@ -1,0 +1,21 @@
+Write a class to store records of 5 employees of a company
+
+Write a class animal and define various attributes of it
+
+Write a class fruits and define various attributes of it
+
+Write a class vegetable s and define various attributes of it
+
+Write a class Student and create different objects of it
+
+Write a class Department and define attributes of it
+
+Write a class School and define attributes of it
+
+Write a class Country and define attributes of it
+
+Write a class Cities and define attributes of it
+
+Write a class Cars and define attributes of it
+
+Write a class stationary  and define attributes of it

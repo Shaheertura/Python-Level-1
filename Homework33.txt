@@ -1,0 +1,8 @@
+Write a GUI application to display Hello world in one line until the screen fills (width-wise)
+
+Write a GUI a application to display Hello world in one line until the screen fills (height-wise)
+
+Write a GUI application to display first 10 natural numbers
+
+Write a GUI application to display first 5 odd numbers
+
